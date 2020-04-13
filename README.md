@@ -8,7 +8,7 @@ Goal of the project was to try to implement some kind of an Application Layer Pr
 
 Chose DNS as I was interested in how it works "under the hood", lots of fun!
 
-![DNS Server Demo](demo/demo.gif)
+![DNS Server Demo](https://imgflip.com/gif/3wgrxp)
 
 ## Table of contents
 * [Requirements](#requirements)

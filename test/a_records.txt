@@ -1,0 +1,3 @@
+venus.planets.com a +norecurse -p 1053
+mercury.planets.com a +norecurse -p 1053
+mars.planets.com a +norecurse -p 1053

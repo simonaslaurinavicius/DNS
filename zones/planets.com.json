@@ -1,0 +1,91 @@
+{
+    "origin": "planets.com.",
+    "class": "IN",
+    "RR": [
+        {  
+            "name": "@", 
+            "type": "SOA", 
+            "name_server": "ns1.planets.com.", 
+            "maintainer": "hostmaster.planets.com.", 
+            "serial": 20,
+            "refresh": 7200,
+            "retry": 600,
+            "expire": 3600000,
+            "minimum": 0
+        },
+        {
+            "name": "@", 
+            "type": "NS",
+            "ttl": 0,
+            "host_name": "ns1.planets.com."
+        },
+        {
+            "name": "@", 
+            "type": "NS", 
+            "ttl": 0,
+            "host_name": "ns2.planets.com."
+        },
+        {
+            "name": "@", 
+            "type": "NS", 
+            "ttl": 0,
+            "host_name": "ns3.planets.com."
+        },
+        {
+            "name": "@",
+            "type": "MX",
+            "ttl": 0,
+            "preference": 10,
+            "exchange": "mail.planets.com."
+        },
+        {
+            "name": "@",
+            "type": "MX",
+            "ttl": 0,
+            "preference": 20,
+            "exchange": "letterbox.planets.com."
+        },
+        {
+            "name": "ns1.planets.com.", 
+            "type": "A", 
+            "ttl": 0,
+            "address": "26.15.0.103"
+        },
+        {
+            "name": "ns2.planets.com.", 
+            "type": "A", 
+            "ttl": 0,
+            "address": "23.14.0.103"
+        },
+        {
+            "name": "ns3.planets.com.", 
+            "type": "A", 
+            "ttl": 0,
+            "address": "22.11.0.103"
+        },
+        {
+            "name": "mercury.planets.com.", 
+            "type": "A", 
+            "ttl": 0,
+            "address": "26.3.0.103"
+        },
+        {
+            "name": "venus.planets.com.", 
+            "type": "A", 
+            "ttl": 0,
+            "address": "10.1.0.52"
+        },
+        {
+            "name": "venus.planets.com.", 
+            "type": "A", 
+            "ttl": 0,
+            "address": "128.9.0.32"
+        },
+        {
+            "name": "mars.planets.com.",
+            "type": "A",
+            "ttl": 0,
+            "address": "134.16.23.17"
+        }
+ ]
+}

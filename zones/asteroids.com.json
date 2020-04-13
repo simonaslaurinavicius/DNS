@@ -1,0 +1,29 @@
+{
+    "origin": "asteroids.com.",
+    "class": "IN",
+    "RR": [
+        {  
+            "name": "@", 
+            "type": "SOA", 
+            "name_server": "ns1.asteroids.com.", 
+            "maintainer": "hostmaster.asteroids.com.", 
+            "serial": 20,
+            "refresh": 7200,
+            "retry": 600,
+            "expire": 3600000,
+            "minimum": 0
+        },
+        {
+            "name": "@", 
+            "type": "NS", 
+            "ttl":  0,
+            "host_name": "ns1.asteroids.com."
+        },
+        {
+            "name": "ns1.asteroids.com.", 
+            "type": "A", 
+            "ttl": 0,
+            "address": "26.47.0.103"
+        }
+    ]
+}

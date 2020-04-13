@@ -23,7 +23,7 @@ Project requires:
 * Python version: 3.7 or newer
  
 ## Setup
-To install Python go to [Python Downloads](https://www.python.org/downloads/)
+To install Python go to [Python Downloads](https://www.python.org/downloads/)  
 To install Dig go to [Install Dig](https://www.digitalocean.com/docs/networking/dns/resources/use-dig/)
 
 ## Run

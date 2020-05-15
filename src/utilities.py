@@ -5,7 +5,7 @@
     Python Version: 3.7.6
 
     Purpose: 
-        Formats module defines various helper functions used by different modules
+        Utilities module defines various helper functions used by different modules
 '''
 
 # Local modules
